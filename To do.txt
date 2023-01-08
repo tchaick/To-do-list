@@ -1,0 +1,5 @@
+1. Try Git everyday
+2. Review to pass the AWS Cloud Practitioner exam. 
+3. Gradually complete the courses in DataCamp
+4. Complete the Google Courses in Coursera
+5. Review to pass the Azure DP900 exam. 
