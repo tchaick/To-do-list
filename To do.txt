@@ -3,3 +3,8 @@
 3. Gradually complete the courses in DataCamp
 4. Complete the Google Courses in Coursera
 5. Review to pass the Azure DP900 exam. 
+
+Important Dates
+January 9: Azure AI Fundamental training
+January 16: CLF-C01 AWS Certified Cloud Practioner Exam. You can do it!
+January 27: DP 900 Azure Data Fundamentals Exam. 
